@@ -1,0 +1,34 @@
+div{
+    padding: 6mm 6mm 6mm 6mm;
+    border: 5px  burlywood;
+    background-color: cornsilk;
+    
+}
+#bal{
+  width: 70%;  
+}
+#jobb{
+    width: 80%;
+    text-indent: 1.5cm;
+
+}
+.piros{
+    border:3mm double  darkred;
+    font-variant:small-caps;
+    color: crimson;
+}
+.kék{
+    padding-bottom:  1cm ;
+    border-left: 1mm dashed blueviolet;
+    border-bottom: blue 2mm dashed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    color: dodgerblue;
+    
+}
+p{
+    text-align: justify;
+    background-color: cornsilk;
+    margin: 2mm 3mm 2mm 3mm ;
+    
+}
